@@ -1,14 +1,13 @@
-### I'm a passionate fullstack developer who has just finished the Web Application Development course in Barcelona.
+### I'm Junior, a passionate fullstack developer based in Ireland who has just finished the Web Application Development course in Barcelona.
+I really like to build the ideas that come into my mind in my free time.
+Lately, I have been learning to create custom widgets for my Linux virtual machine using Quickshell and QML.
 
 ##### Some of my projects include:
 
-# Novu: Create new connections with other students
-### Novu is a Tinder like webapp that I made with some of my classmates as a final group project. 
+### Novu: Create new connections with other students
+###### Novu is a Tinder like webapp that I made with some of my classmates as a final group project. 
 link:
 
-# Weather of the Autonomous Community of Catalonia
-### A class project made for checking the weather on this region in Spain
-link:
 
 <!--
 **TheSlashVII/TheSlashVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
