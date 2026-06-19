@@ -1,4 +1,14 @@
-## Hi there 👋
+### I'm a passionate fullstack developer who has just finished the Web Application Development course in Barcelona.
+
+##### Some of my projects include:
+
+# Novu: Create new connections with other students
+### Novu is a Tinder like webapp that I made with some of my classmates as a final group project. 
+link:
+
+# Weather of the Autonomous Community of Catalonia
+### A class project made for checking the weather on this region in Spain
+link:
 
 <!--
 **TheSlashVII/TheSlashVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
