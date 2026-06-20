@@ -6,7 +6,7 @@ Lately, I have been learning to create custom widgets for my Linux virtual machi
 
 ### Novu: Create new connections with other students
 ###### Novu is a Tinder like webapp that I made with some of my classmates as a final group project. 
-link: https://gitlab.com/TheSlashVII/novu
+link to the [project](https://gitlab.com/TheSlashVII/novu) 
 
 
 <!--
