@@ -11,7 +11,9 @@ link to the [project](https://gitlab.com/TheSlashVII/novu)
 
 
 ## Other profile links
+
 **LinkedIn**: [https://www.linkedin.com/in/junior-uzama/](https://www.linkedin.com/in/junior-uzama/)
+
 **Gitlab**: [https://gitlab.com/TheSlashVII](https://gitlab.com/TheSlashVII)
 <!--
 **TheSlashVII/TheSlashVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
